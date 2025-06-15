@@ -1,8 +1,8 @@
-# 📊 Meu Projeto Power BI - Sample Financials 🏆  
+# 📊 Meu Projeto Power BI - Sample Financials  
 
 Esse repositório faz parte do **Desafio da DIO no Bootcamp de Ciência de Dados do Santander** e é mais um passo na minha jornada de aprendizado. Aqui você encontrará um **dashboard interativo** baseado na `sample financials`, onde explorei métricas importantes e implementei **navegabilidade intuitiva**.  
 
-O desafio propunha a criação de um relatório mais elaborado, incluindo a **segunda página**, que desenvolvi aplicando os conceitos aprendidos.  
+O desafio propunha a criação de um relatório mais elaborado, incluindo a **segunda página do relatório**, que desenvolvi aplicando os conceitos aprendidos. Além disso, fiz **melhorias na primeira página**, aprimorando os elementos visuais e refinando a análise de dados para uma experiência mais completa! 🚀  
 
 ---
 
@@ -32,9 +32,31 @@ O principal objetivo desse projeto foi criar uma **visualização eficiente e im
 
 ---
 
+## 🖥️ Preview do Dashboard  
+
+O relatório desenvolvido no Power BI é composto por **duas páginas principais**:  
+
+- **Sales Report** → A primeira página apresenta um panorama das **vendas**, incluindo métricas essenciais e tendências de desempenho.  
+- **Profit Report** → A segunda página detalha a **análise de lucro**, trazendo uma visão mais aprofundada dos resultados financeiros.  
+
+Confira abaixo alguns **prints de tela** do relatório criado no Power BI:  
+
+![Visão Geral do Sales Report](visuals/sales-report-1-thumbnail.png)![Sales Report 1](visuals/sales-report-2-thumbnail.png) 
+🔹 **Visão geral das vendas** e principais indicadores  
+
+![Detalhamento do Profit Report](visuals/profit-report-thumbnails.png)  
+🔹 **Análise detalhada do lucro**, segmentada por diferentes fatores  
+
+📺 **Demo do Dashboard**  
+Veja um vídeo demonstrativo dos recursos utilizados:  
+[![Vídeo Demo](visuals/demo-thumbnail.png)](visuals/demo-video.mp4)  
+
+---
+
 ## 📎 Links e Recursos  
 🔗 Repositório original do desafio: [Sample Financials](https://github.com/julianazanelatto/power_bi_analyst)  
 📺 Vídeos de passo a passo para a construção do relatório  
+📂 **visuals/** → Contém **prints de tela** do relatório no Power BI e um **vídeo demonstrativo** dos recursos utilizados.  
 
 ---
 
@@ -43,22 +65,26 @@ O principal objetivo desse projeto foi criar uma **visualização eficiente e im
 🔹 Testar outras técnicas de **navegabilidade** no Power BI 🔄  
 🔹 Compartilhar com a comunidade da **DIO e do Bootcamp Santander** 💼  
 
-📢 **Feedbacks são sempre bem-vindos!** Se tiver sugestões para melhorias, sinta-se à vontade para contribuir. 😁  
+📢 **Feedbacks são sempre bem-vindos!** Se tiver sugestões para melhorias, sinta-se à vontade para contribuir.  
 
 ---
 
 ## 📂 Estrutura do Repositório
 
 ```bash
-📂 power-bi-financial-report/
+📂 dio-powerbi-financial-analysis/
  ├── 📄 README.md
- ├── 📂 data/  # Arquivos de banco de dados
- ├── 📂 assets/  # Imagens e templates
- ├── 📂 report/  # Relatório exportado do Power BI
- ├── 📂 documentation/  # Qualquer documentação adicional
- └── 📄 LICENSE
+ ├── 📂 data/  # Arquivo do banco de dados
+ ├── 📂 report/  # Arquivo .pbix do Power BI
+ ├── 📂 visuals/  # Prints de tela e vídeos do dashboard
 ```
 
 ---
 
-💙 Feito com dedicação por **Lidiane**  
+## 📜 Licença  
+Este projeto está licenciado sob a **MIT License** – sinta-se livre para usar, modificar e compartilhar!   
+Para mais detalhes, consulte o texto completo da licença [aqui](https://opensource.org/licenses/MIT).
+
+---
+
+💜 Feito com dedicação por **Lidiane**  
