@@ -1,6 +1,6 @@
 # 📊 Projeto Power BI - Sample Financials  
 
-Esse repositório faz parte do **Desafio da DIO no Bootcamp de Ciência de Dados do Santander** e é mais um passo na minha jornada de aprendizado. Aqui você encontrará um **dashboard interativo** baseado na `sample financials`, onde explorei métricas importantes e implementei **navegabilidade intuitiva**.  
+Esse repositório faz parte do **Desafio da DIO no Bootcamp de Ciência de Dados do Santander** e é mais um passo na minha jornada de aprendizado. Aqui você encontrará um **dashboard interativo,** onde explorei métricas importantes e implementei **navegabilidade intuitiva**.  
 
 O desafio propunha a criação de um relatório mais elaborado, incluindo a **segunda página do relatório**, que desenvolvi aplicando os conceitos aprendidos. Além disso, fiz **melhorias na primeira página**, aprimorando os elementos visuais e refinando a análise de dados para uma experiência mais completa! 🚀  
 
@@ -17,7 +17,7 @@ O principal objetivo desse projeto foi criar uma **visualização eficiente e im
 
 ## 🛠️ Tecnologias Utilizadas  
 💡 **Power BI** - Modelagem e visualização de dados  
-💾 **Banco de Dados** - `sample financials`  
+💾 **Banco de Dados** - `Financial Sample`  
 🌐 **GitHub** - Organização e compartilhamento do projeto  
 
 ---
