@@ -1,4 +1,4 @@
-# 📊 Meu Projeto Power BI - Sample Financials  
+# 📊 Projeto Power BI - Sample Financials  
 
 Esse repositório faz parte do **Desafio da DIO no Bootcamp de Ciência de Dados do Santander** e é mais um passo na minha jornada de aprendizado. Aqui você encontrará um **dashboard interativo** baseado na `sample financials`, onde explorei métricas importantes e implementei **navegabilidade intuitiva**.  
 
@@ -41,10 +41,12 @@ O relatório desenvolvido no Power BI é composto por **duas páginas principais
 
 Confira abaixo alguns **prints de tela** do relatório criado no Power BI:  
 
-![Visão Geral do Sales Report](visuals/sales-report-1-thumbnail.png)![Sales Report 1](visuals/sales-report-2-thumbnail.png) 
+![Visão Geral do Sales Report](visuals/sales-report-1-thumbnail.png)   ![Sales Report 1](visuals/sales-report-2-thumbnail.png) 
+
 🔹 **Visão geral das vendas** e principais indicadores  
 
-![Detalhamento do Profit Report](visuals/profit-report-thumbnails.png)  
+![Detalhamento do Profit Report](visuals/profit-report-thumbnail.png)  
+
 🔹 **Análise detalhada do lucro**, segmentada por diferentes fatores  
 
 📺 **Demo do Dashboard**  
@@ -76,7 +78,7 @@ Veja um vídeo demonstrativo dos recursos utilizados:
  ├── 📄 README.md
  ├── 📂 data/  # Arquivo do banco de dados
  ├── 📂 report/  # Arquivo .pbix do Power BI
- ├── 📂 visuals/  # Prints de tela e vídeos do dashboard
+ ├── 📂 visuals/  # Prints de tela e vídeo do dashboard
 ```
 
 ---
